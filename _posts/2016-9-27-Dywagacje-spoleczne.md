@@ -7,7 +7,7 @@ modified: 2016-09-27
 tags: [społeczeństwo, dywagacje]
 author: pyl
 comments: true
-mathjax: true
+mathjax:
 ---
 
 Na początku powstał świat a wraz z nim pierwsi ludzie, umieszczeni w bezproblemowej krainie nazwanej potocznie „Eden”. Każdy kto w swoim życiu doświadczył lekcji religii, etyki czy chociażby polskiego wie co wydarzyło się dalej – typowa pożądliwa kobieta zmusiła swojego uległego kobiecej determinacji mężczyznę do głupoty zmieniającej los świata. Kobiecy kaprys, ot co. Kto obcował z płcią piękną wie, że błędem byłoby odmówić, zwłaszcza w sytuacji gdy jest to jedyna kobieta na planecie. Któżby oparł się prośbie wybranki serca nie mając w perspektywie nikogo innego? Proszę państwa, są przecież pewne priorytety.
