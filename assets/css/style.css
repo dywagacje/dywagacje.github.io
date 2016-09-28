@@ -873,6 +873,8 @@ body {
 
 p {
   margin: 0 0 30px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 body input,
