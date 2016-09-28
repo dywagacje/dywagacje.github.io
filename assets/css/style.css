@@ -98,8 +98,8 @@ a:hover {
 }
 /* - Lead text - */
 .lead {
-  font-size: 21px;
-  line-height: 2em;
+  font-size: 20px;
+  line-height: 1.9em;
 }
 /* - Blockquote - */
 blockquote {
@@ -872,9 +872,9 @@ body {
 }
 
 p {
-  margin: 0 0 30px;
+  margin: 0 0 20px;
   text-align: justify;
-  text-justify: inter-word;
+  text-indent: 10%;
 }
 
 body input,
@@ -2023,7 +2023,7 @@ a#slide:hover {
 }
 
 a#slide:after {
-  content: "F";
+  content: "M";
 }
 
 a#slide.slide:after {
