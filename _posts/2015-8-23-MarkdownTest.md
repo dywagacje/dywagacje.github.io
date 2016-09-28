@@ -5,6 +5,7 @@ description: Some description       # Description of the post, used for Facebook
 headline: Markdown Syntax Test      # Will appear in bold letters on top of the post
 modified: 2015-8-23                 # Date
 category: personal
+author: teaya
 tags: []
 image: 
 comments: true

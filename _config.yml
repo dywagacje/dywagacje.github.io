@@ -1,9 +1,9 @@
-title:            Site Title
-description:      Site description for the metas.
+title:            Dywagacje
+description:      Różne i wolne.
 logo:             omikron.png
-disqus_shortname: shortname
+disqus_shortname: dywagacje
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       bg-low.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -14,7 +14,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://dywagacje.github.io
 # baseurl:           
 
 # Gems used
@@ -42,11 +42,11 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           Your Name
+  name:           TeaYa
   picture:        your-photo.jpg
-  email:          your@email.com
+  email:          dywagacje@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  description:    Zajmuje się programowaniem, matematyką i graniem.
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
@@ -55,7 +55,7 @@ author:
   instagram:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/123123123123132123"
+  google_plus:    "https://plus.google.com/u/3/116887920730656121846"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -85,7 +85,7 @@ sitemap:
         - "/index.html"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Warsaw
 future:      true
 markdown:    kramdown
 highlighter: rouge
