@@ -158,8 +158,9 @@
                     {% endif %}
 
                         {% include signoff.html %} 
-                        
-                    <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                    <center>    
+                        {% include fb-like.html %}
+                    </center>
                     {% if site.disqus_shortname and page.comments == true %}
                         <div id="disqus_thread"></div><!-- /#disqus_thread -->
                     {% endif %}
