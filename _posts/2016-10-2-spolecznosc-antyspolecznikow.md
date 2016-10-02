@@ -3,7 +3,7 @@ layout: post
 title: Społeczność antyspołeczników
 description:  Dzień pod znakiem złego humoru.
 headline: Społeczność antyspołeczników
-modified: 2016-10-09
+modified: 
 tags: [społeczeństwo, dywagacje, introwertyzm]
 author: pyl
 comments: true
